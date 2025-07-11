@@ -1,0 +1,36 @@
+{
+  "name": "vtu22013",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "webpack serve",
+  "build": "webpack"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-PRIYA-VARSHA/VTU22013.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P-PRIYA-VARSHA/VTU22013/issues"
+  },
+  "homepage": "https://github.com/P-PRIYA-VARSHA/VTU22013#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "@babel/preset-react": "^7.27.1",
+    "babel-loader": "^10.0.0",
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.100.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
